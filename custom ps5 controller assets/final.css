@@ -15,8 +15,8 @@
     width: 598px;
     height: 90px;
     position: absolute;
-    left: 299px;
-    top: 38px;
+    left: 301.5px;
+    top: 36px;
 }
 
 .ds4 .trigger {
@@ -46,12 +46,12 @@
     position: absolute;
     width: 672px;
     height: 23px;
-    left: 263px;
-    top: 132px;
+    left: 265px;
+    top: 131px;
 }
 
 .ds4 .bumper.pressed {
-    opacity: 0.8;
+    opacity: 1;
 }
 
 .ds4 .bumper.left {
@@ -101,13 +101,13 @@ background-position: 0 -70px;
 }
 .ds4 .start {
     position: absolute;
-    left: 546px;
-    bottom: -30px;
+    left: 547.5px;
+    bottom: -29px;
 }
 .ds4 .back {
     position: absolute;
-    left: 170px;
-    bottom: -30px;
+    left: 171.5px;
+    bottom: -29px;
 }
 
 
@@ -175,8 +175,8 @@ background-position: 0 -70px;
     position: absolute;
     width: 364px;
     height: 105px;
-    top: 348px;
-    left: 422px;
+    top: 344px;
+    left: 423.3px;
 }
 
 .ds4 .stick {
